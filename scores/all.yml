@@ -1,0 +1,212 @@
+[
+  {
+    "entityRef": {
+      "kind": "Component",
+      "name": "payment-service"
+    },
+    "scorePercent": 75,
+    "scoreLabel": "B",
+    "scoringReviewDate": "2023-06-15T10:00:00Z",
+    "scoreSuccess": "almost-success",
+    "areaScores": [
+      {
+        "title": "Code",
+        "scorePercent": 90,
+        "scoreLabel": "A",
+        "scoreSuccess": "success"
+      },
+      {
+        "title": "Documentation",
+        "scorePercent": 70,
+        "scoreLabel": "B-",
+        "scoreSuccess": "partial"
+      },
+      {
+        "title": "Operations",
+        "scorePercent": 80,
+        "scoreLabel": "B+",
+        "scoreSuccess": "success"
+      },
+      {
+        "title": "Quality",
+        "scorePercent": 65,
+        "scoreLabel": "C",
+        "scoreSuccess": "partial"
+      },
+      {
+        "title": "Security",
+        "scorePercent": 70,
+        "scoreLabel": "B-",
+        "scoreSuccess": "partial"
+      }
+    ]
+  },
+  {
+    "entityRef": {
+      "kind": "Component",
+      "name": "iam-service"
+    },
+    "scorePercent": 82,
+    "scoreLabel": "B+",
+    "scoringReviewDate": "2023-06-14T09:30:00Z",
+    "scoreSuccess": "success",
+    "areaScores": [
+      {
+        "title": "Code",
+        "scorePercent": 85,
+        "scoreLabel": "B+",
+        "scoreSuccess": "success"
+      },
+      {
+        "title": "Documentation",
+        "scorePercent": 80,
+        "scoreLabel": "B",
+        "scoreSuccess": "success"
+      },
+      {
+        "title": "Operations",
+        "scorePercent": 75,
+        "scoreLabel": "B",
+        "scoreSuccess": "almost-success"
+      },
+      {
+        "title": "Quality",
+        "scorePercent": 90,
+        "scoreLabel": "A",
+        "scoreSuccess": "success"
+      },
+      {
+        "title": "Security",
+        "scorePercent": 95,
+        "scoreLabel": "A+",
+        "scoreSuccess": "success"
+      }
+    ]
+  },
+  {
+    "entityRef": {
+      "kind": "Component",
+      "name": "product-service"
+    },
+    "scorePercent": 68,
+    "scoreLabel": "C+",
+    "scoringReviewDate": "2023-06-13T14:00:00Z",
+    "scoreSuccess": "partial",
+    "areaScores": [
+      {
+        "title": "Code",
+        "scorePercent": 75,
+        "scoreLabel": "B",
+        "scoreSuccess": "almost-success"
+      },
+      {
+        "title": "Documentation",
+        "scorePercent": 60,
+        "scoreLabel": "C-",
+        "scoreSuccess": "partial"
+      },
+      {
+        "title": "Operations",
+        "scorePercent": 70,
+        "scoreLabel": "B-",
+        "scoreSuccess": "partial"
+      },
+      {
+        "title": "Quality",
+        "scorePercent": 65,
+        "scoreLabel": "C",
+        "scoreSuccess": "partial"
+      },
+      {
+        "title": "Security",
+        "scorePercent": 70,
+        "scoreLabel": "B-",
+        "scoreSuccess": "partial"
+      }
+    ]
+  },
+  {
+    "entityRef": {
+      "kind": "Component",
+      "name": "order-service"
+    },
+    "scorePercent": 72,
+    "scoreLabel": "B-",
+    "scoringReviewDate": "2023-06-12T11:00:00Z",
+    "scoreSuccess": "almost-success",
+    "areaScores": [
+      {
+        "title": "Code",
+        "scorePercent": 80,
+        "scoreLabel": "B",
+        "scoreSuccess": "success"
+      },
+      {
+        "title": "Documentation",
+        "scorePercent": 65,
+        "scoreLabel": "C",
+        "scoreSuccess": "partial"
+      },
+      {
+        "title": "Operations",
+        "scorePercent": 75,
+        "scoreLabel": "B",
+        "scoreSuccess": "almost-success"
+      },
+      {
+        "title": "Quality",
+        "scorePercent": 70,
+        "scoreLabel": "B-",
+        "scoreSuccess": "partial"
+      },
+      {
+        "title": "Security",
+        "scorePercent": 70,
+        "scoreLabel": "B-",
+        "scoreSuccess": "partial"
+      }
+    ]
+  },
+  {
+    "entityRef": {
+      "kind": "Component",
+      "name": "customer-portal"
+    },
+    "scorePercent": 78,
+    "scoreLabel": "B+",
+    "scoringReviewDate": "2023-06-11T15:30:00Z",
+    "scoreSuccess": "almost-success",
+    "areaScores": [
+      {
+        "title": "Code",
+        "scorePercent": 85,
+        "scoreLabel": "B+",
+        "scoreSuccess": "success"
+      },
+      {
+        "title": "Documentation",
+        "scorePercent": 75,
+        "scoreLabel": "B",
+        "scoreSuccess": "almost-success"
+      },
+      {
+        "title": "Operations",
+        "scorePercent": 80,
+        "scoreLabel": "B",
+        "scoreSuccess": "success"
+      },
+      {
+        "title": "Quality",
+        "scorePercent": 70,
+        "scoreLabel": "B-",
+        "scoreSuccess": "partial"
+      },
+      {
+        "title": "Security",
+        "scorePercent": 80,
+        "scoreLabel": "B",
+        "scoreSuccess": "success"
+      }
+    ]
+  }
+]
